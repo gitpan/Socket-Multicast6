@@ -1,6 +1,6 @@
 ---
 name: Socket-Multicast6
-version: 0.03
+version: 0.04
 author:
   - |-
     Based on L<Socket::Multicast> by Jonathan Steinert, E<lt>hachi@cpan.orgE<gt>
@@ -22,7 +22,7 @@ build_requires:
 provides:
   Socket::Multicast6:
     file: lib/Socket/Multicast6.pm
-    version: 0.03
+    version: 0.04
 generated_by: Module::Build version 0.280801
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
